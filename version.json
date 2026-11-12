@@ -1,0 +1,10 @@
+{
+  "version": "8.2.1",
+  "build": 1162,
+  "buildNumber": 1162,
+  "versionCode": 83,
+  "apkSizeBytes": 24612111,
+  "apkUrl": "https://github.com/ilhamsptr1/IMUSIC/releases/latest/download/IMusic-Release.apk",
+  "downloadUrl": "https://github.com/ilhamsptr1/IMUSIC/releases/latest/download/IMusic-Release.apk",
+  "changelog": "v8.2.1 - Perbaikan bug: refresh otomatis token stream Lossless FLAC (Qobuz/NetEase/JOOX) saat dijeda lama, normalisasi ReplayGain/LUFS Qobuz, dukungan analisis Crossmix 24-bit/32-bit Float PCM, dan akurasi bit-depth."
+}
